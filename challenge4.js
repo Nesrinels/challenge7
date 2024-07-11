@@ -1,4 +1,4 @@
-function checkseason (month) {
+ function checkseason (month) {
     switch (month) {
         case 12:
         case 1:
